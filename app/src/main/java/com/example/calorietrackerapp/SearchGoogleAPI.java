@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class SearchGoogleAPI {
 
-    private static final String API_KEY = "AIzaSyAp9HuPfb7ZlkaiKerGz160-Vqz0yNrM3s";
+    private static final String API_KEY = "YOURAPIKEY";
     private static final String SEARCH_ID_cx = "002120329320461133320:aa2qfjtcnae";
 
     public static String search(String keyword, String[] params, String[] values) {
